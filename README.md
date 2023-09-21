@@ -1,1 +1,3 @@
-# NEAF_Exam
+Name:Bang-Wei,Yu
+Time:2023/09/21 19:13
+Device:AUSU TUF GAMING 17
